@@ -5,7 +5,7 @@ date:
 modified:
 excerpt:
 image:
-  feature:
+  feature: shinjuku.jpg
 search_omit: true
 sitemap: false
 ---
