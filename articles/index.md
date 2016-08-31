@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Articles
-image:
-  feature: tulum.jpg
 excerpt: "An archive of articles sorted by date."
 search_omit: true
+image:
+  feature: tulum.jpg
 ---
 
 <ul class="post-list">
