@@ -13,13 +13,13 @@ modified: 2016-09-18T15:39:55-04:00
 
 These are books / blogs / videos that I've found helpful or have been recommended to me.
 
-#Books
+# Books
 
 | Book | Author | Link |
 | ---- | ------ | ---- |
 | The Phoenix Project | Gene Kim, Kevin Behr, George Spafford |  |
 
-#Blogs and Websites
+# Blogs and Websites
 
 | Website | About |
 | ------- | ----- |
