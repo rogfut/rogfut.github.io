@@ -1,0 +1,15 @@
+---
+layout: post
+title: "DevOps Reading List"
+modified:
+categories: blog
+excerpt:
+tags: []
+image:
+  feature:
+date: 2016-09-18T15:39:55-04:00
+modified: 2016-09-18T15:39:55-04:00
+---
+
+These are books / blogs / videos that I've found helpful or have been recommended to me.
+
