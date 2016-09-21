@@ -24,4 +24,4 @@ These are books / blogs / videos that I've found helpful or have been recommende
 | Website | About |
 |:--------|:------|
 | DevopsLibrary.com | Video tutorials and posts, great Jenkins resource |
-| SomeOtherUrl.com  | A really long line of text that will probably push my table all the way to left to make room for the long row |
+| SomeOtherUrl.com  | A short row of text |
