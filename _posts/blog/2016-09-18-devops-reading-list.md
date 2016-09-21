@@ -22,5 +22,5 @@ These are books / blogs / videos that I've found helpful or have been recommende
 # Blogs and Websites
 
 | Website | About |
-| ------- | ----- |
+| ------: | ----: |
 | [DevOps Library](https://www.devopslibrary.com/) | A great collection of video tutorials and blog posts with a heavy emphasis on Jenkins |
