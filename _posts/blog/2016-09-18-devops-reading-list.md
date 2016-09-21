@@ -17,6 +17,7 @@ These are books / blogs / videos that I've found helpful or have been recommende
 
 | Book | Author |
 |:-----|:-------|
+| PowerShell Toolmaking in a Month of Lunches | Don Jones, Jeffery Hicks |
 | The Phoenix Project | Gene Kim, Kevin Behr, George Spafford |
 | The Practice of Cloud System Administration | Tom Limoncelli, Strata R. Chalup, Christina J. Hogan |
 
