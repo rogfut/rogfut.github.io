@@ -16,11 +16,11 @@ These are books / blogs / videos that I've found helpful or have been recommende
 # Books
 
 | Book | Author | Link |
-| ---- | ------ | ---- |
+| :--- | :----- | :--- |
 | The Phoenix Project | Gene Kim, Kevin Behr, George Spafford |  |
 
 # Blogs and Websites
 
-| Website | About |
-| :------ | :---- |
-| :[DevOps Library](https://www.devopslibrary.com/) | :A great collection of video tutorials and blog posts with a heavy emphasis on Jenkins |
+| Website |       | About |
+| :------ | :---- | :---- |
+| [DevOps Library](https://www.devopslibrary.com/) | | A great collection of video tutorials and blog posts with a heavy emphasis on Jenkins |
