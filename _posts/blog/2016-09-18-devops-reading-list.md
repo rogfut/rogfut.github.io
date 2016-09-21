@@ -18,10 +18,11 @@ These are books / blogs / videos that I've found helpful or have been recommende
 | Book | Author |
 |:-----|:-------|
 | The Phoenix Project | Gene Kim, Kevin Behr, George Spafford |
+| The Practice of Cloud System Administration | Tom Limoncelli, Strata R. Chalup, Christina J. Hogan |
 
 # Blogs and Websites
 
 | Website | About |
 |:--------|:------|
-| DevopsLibrary.com | Video tutorials and posts, great Jenkins resource |
+| [DevopsLibrary.com](http://devopslibrary.com) | Video tutorials and posts, great Jenkins resource |
 | SomeOtherUrl.com  | A short row of text |
