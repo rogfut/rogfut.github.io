@@ -26,4 +26,4 @@ These are books / blogs / videos that I've found helpful or have been recommende
 | Website | About |
 |:--------|:------|
 | [DevopsLibrary.com](http://devopslibrary.com) | Video tutorials and posts, great Jenkins resource |
-| SomeOtherUrl.com  | A short row of text |
+| [GitHub.io](https://try.github.io)  | Got 15 minutes and want to learn Git? |
