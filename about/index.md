@@ -6,7 +6,6 @@ modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: redmountain.jpg
   credit: Roger Futrell
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 I am a system administrator who works and lives in the Seattle area.  I have a passion for PowerShell and DevOps.  
