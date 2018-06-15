@@ -5,7 +5,7 @@ locale: en_US
 description: Systems Administration, DevOps, PowerShell, Caffeine.
 logo: site-logo.png
 search: true
-url: http://blog.rogfut.com
+url: https://rogerfutrell.com
 
 # Jekyll configuration
 
@@ -38,7 +38,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Roger Futrell
   avatar: bio-photo.jpg
-  email: rogfut@outlook.com
+  email: rogerfutrell@outlook.com
   disqus-shortname:
   twitter: rogfut
   facebook: #username
